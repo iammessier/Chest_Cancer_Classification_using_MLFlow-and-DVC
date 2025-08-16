@@ -3,7 +3,7 @@ pandas
 gdown
 dvc
 python-box
-mlflow==2.2.2
+mlflow>=2.8.0
 notebook
 numpy
 matplotlib
@@ -17,4 +17,5 @@ types-PyYAML
 scipy
 Flask
 Flask-Cors
+dagshub
 -e .

@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Chest_Cancer_Classification_using_MLFlow-and-DVC/mlruns/0/2ed08ced0449443aa5cb060835d60f44/artifacts
+end_time: 1755371346911
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ed08ced0449443aa5cb060835d60f44
+run_name: rumbling-fawn-906
+run_uuid: 2ed08ced0449443aa5cb060835d60f44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755371330187
+status: 4
+tags: []
+user_id: lenovo

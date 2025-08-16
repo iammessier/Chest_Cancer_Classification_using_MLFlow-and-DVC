@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Chest_Cancer_Classification_using_MLFlow-and-DVC/mlruns/0/b776a1cf91ed4575bd8d6662fb33fb5a/artifacts
+end_time: 1755371703990
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b776a1cf91ed4575bd8d6662fb33fb5a
+run_name: amusing-sponge-607
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755371686418
+status: 3
+tags: []
+user_id: lenovo

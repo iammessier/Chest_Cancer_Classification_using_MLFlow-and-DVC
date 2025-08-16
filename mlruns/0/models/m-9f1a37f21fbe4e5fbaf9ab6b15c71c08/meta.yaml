@@ -1,0 +1,10 @@
+artifact_location: file:///F:/Chest_Cancer_Classification_using_MLFlow-and-DVC/mlruns/0/models/m-9f1a37f21fbe4e5fbaf9ab6b15c71c08/artifacts
+creation_timestamp: 1755371686529
+experiment_id: '0'
+last_updated_timestamp: 1755371703965
+model_id: m-9f1a37f21fbe4e5fbaf9ab6b15c71c08
+model_type: null
+name: model
+source_run_id: b776a1cf91ed4575bd8d6662fb33fb5a
+status: 2
+status_message: null

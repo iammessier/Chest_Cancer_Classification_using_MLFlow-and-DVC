@@ -1,0 +1,22 @@
+artifact_path: file:///F:/Chest_Cancer_Classification_using_MLFlow-and-DVC/mlruns/0/models/m-9f1a37f21fbe4e5fbaf9ab6b15c71c08/artifacts
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.10.18
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.12.0
+    model_type: keras
+    save_format: tf
+mlflow_version: 3.2.0
+model_id: m-9f1a37f21fbe4e5fbaf9ab6b15c71c08
+model_size_bytes: 59656699
+model_uuid: m-9f1a37f21fbe4e5fbaf9ab6b15c71c08
+prompts: null
+run_id: b776a1cf91ed4575bd8d6662fb33fb5a
+utc_time_created: '2025-08-16 19:14:46.690715'
