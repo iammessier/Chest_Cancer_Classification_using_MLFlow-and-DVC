@@ -1,8 +1,9 @@
 artifact_uri: file:///F:/Chest_Cancer_Classification_using_MLFlow-and-DVC/mlruns/0/b776a1cf91ed4575bd8d6662fb33fb5a/artifacts
+deleted_time: 1755414022071
 end_time: 1755371703990
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b776a1cf91ed4575bd8d6662fb33fb5a
 run_name: amusing-sponge-607
 source_name: ''

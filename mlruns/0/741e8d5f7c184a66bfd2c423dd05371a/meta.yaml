@@ -1,11 +1,11 @@
 artifact_uri: file:///F:/Chest_Cancer_Classification_using_MLFlow-and-DVC/mlruns/0/741e8d5f7c184a66bfd2c423dd05371a/artifacts
+deleted_time: 1755414022072
 end_time: 1755370876937
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 741e8d5f7c184a66bfd2c423dd05371a
 run_name: gentle-moose-55
-run_uuid: 741e8d5f7c184a66bfd2c423dd05371a
 source_name: ''
 source_type: 4
 source_version: ''
